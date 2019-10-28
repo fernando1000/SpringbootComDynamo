@@ -1,6 +1,6 @@
 amazon:
   access:
-    key: AKIA3D3W42ZDO2IXKTMZ
+    key: 
     secret-key: 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
   region: us-east-1
   end-point:
